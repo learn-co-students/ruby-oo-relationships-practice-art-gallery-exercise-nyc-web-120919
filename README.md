@@ -52,8 +52,8 @@ An artist can, of course, have many paintings. Paintings can only be in one gall
   <!-- * `Painting.all`
     * Returns an `array` of all the paintings -->
 
-  * `Painting.total_price`
-    * Returns an `integer` that is the total price of all paintings
+  <!-- * `Painting.total_price`
+    * Returns an `integer` that is the total price of all paintings -->
 
 **GALLERY**
 
